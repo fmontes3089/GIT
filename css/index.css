@@ -1,8 +1,9 @@
 body {
-    background-color: cadetblue;
+    background-color:black;
 }
 
 p{
     background-color: red;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: white;
 }
